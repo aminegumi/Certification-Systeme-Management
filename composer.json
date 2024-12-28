@@ -1,0 +1,11 @@
+{
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "config": {
+        "platform": {
+            "php": "8.2.12"
+        }
+    }
+}
